@@ -1,0 +1,53 @@
+                Constancia de Recepción del Registro de Ventas e Ingresos
+
+Transacción
+Nombre:                                          Generación del RVIE
+Nro. de Operación:                               2026-0200000008
+Fecha y hora:                                    12/11/2026 17:37:55
+
+Datos del Contribuyente
+Número de RUC:                                   10487034741
+Nombre o Razón Social:                           LLAMOCCA NINAQUISPE ALBERTO
+
+Datos del Registro
+Registro:                                        RVIE
+Periodo:                                         2026/08
+Anotación                                        Propuesta Aceptada
+Cantidad de registros:                           0
+
+
+
+
+Datos Totales
+                                              Descripción                                       Monto
+Monto Total facturado de la exportación.                                                                0.00
+
+Monto Total de la base imponible de la operación gravada.                                               0.00
+
+Sumatoria de descuentos de base imponible.                                                              0.00
+
+Monto Total del IGV y/o IPM.                                                                            0.00
+
+Sumatoria de descuentos de IGV.                                                                         0.00
+
+Monto Total de la operación exonerada.                                                                  0.00
+
+Monto Total de la operación inafecta.                                                                   0.00
+
+Monto Total del ISC.                                                                                    0.00
+
+Monto Total de la base imponible del IVAP.                                                              0.00
+
+Monto Total del IVAP.                                                                                   0.00
+
+Sumatoria de Impuesto al Consumo Bolsas de Plástico.                                                    0.00
+
+Monto Total de otros tributos y cargos que no forman parte de la base imponible.                        0.00
+
+Monto Total del comprobante de pago.                                                                    0.00
+
+
+
+
+                                        Gracias por cumplir con sus obligaciones tributarias.
+

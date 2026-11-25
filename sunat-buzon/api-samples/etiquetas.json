@@ -1,0 +1,112 @@
+[
+  {
+    "codMensaje": 0,
+    "indEstado": 0,
+    "indDesta": 0,
+    "indUrg": 0,
+    "indTipmsj": 0,
+    "codEtiqueta": "10",
+    "descEtiqueta": "VALORES",
+    "cantEtiqueta": 0,
+    "colorEtiqueta": "ce0d0e"
+  },
+  {
+    "codMensaje": 0,
+    "indEstado": 0,
+    "indDesta": 0,
+    "indUrg": 0,
+    "indTipmsj": 0,
+    "codEtiqueta": "11",
+    "descEtiqueta": "RESOLUCIONES DE COBRANZA",
+    "cantEtiqueta": 0,
+    "colorEtiqueta": "ff9200"
+  },
+  {
+    "codMensaje": 0,
+    "indEstado": 0,
+    "indDesta": 0,
+    "indUrg": 0,
+    "indTipmsj": 0,
+    "codEtiqueta": "12",
+    "descEtiqueta": "RESOLUCIONES DE FRACCIONAMIENTO",
+    "cantEtiqueta": 0,
+    "colorEtiqueta": "00afff"
+  },
+  {
+    "codMensaje": 0,
+    "indEstado": 0,
+    "indDesta": 0,
+    "indUrg": 0,
+    "indTipmsj": 0,
+    "codEtiqueta": "13",
+    "descEtiqueta": "RESOLUCIONES NO CONTENCIOSAS",
+    "cantEtiqueta": 0,
+    "colorEtiqueta": "89bd12"
+  },
+  {
+    "codMensaje": 0,
+    "indEstado": 0,
+    "indDesta": 0,
+    "indUrg": 0,
+    "indTipmsj": 0,
+    "codEtiqueta": "14",
+    "descEtiqueta": "RESOLUCIONES DE FISCALIZACION",
+    "cantEtiqueta": 0,
+    "colorEtiqueta": "00b27e"
+  },
+  {
+    "codMensaje": 0,
+    "indEstado": 0,
+    "indDesta": 0,
+    "indUrg": 0,
+    "indTipmsj": 0,
+    "codEtiqueta": "15",
+    "descEtiqueta": "NOTIFICACIONES ANTERIORES",
+    "cantEtiqueta": 0,
+    "colorEtiqueta": "ff4546"
+  },
+  {
+    "codMensaje": 0,
+    "indEstado": 0,
+    "indDesta": 0,
+    "indUrg": 0,
+    "indTipmsj": 0,
+    "codEtiqueta": "16",
+    "descEtiqueta": "AVISOS",
+    "cantEtiqueta": 0,
+    "colorEtiqueta": "d45aed"
+  },
+  {
+    "codMensaje": 0,
+    "indEstado": 0,
+    "indDesta": 0,
+    "indUrg": 0,
+    "indTipmsj": 0,
+    "codEtiqueta": "18",
+    "descEtiqueta": "INSPECCION NO INTRUSIVA",
+    "cantEtiqueta": 0,
+    "colorEtiqueta": "daf7a6"
+  },
+  {
+    "codMensaje": 0,
+    "indEstado": 0,
+    "indDesta": 0,
+    "indUrg": 0,
+    "indTipmsj": 0,
+    "codEtiqueta": "19",
+    "descEtiqueta": "REQUERIMIENTOS DIVERSOS",
+    "cantEtiqueta": 0,
+    "colorEtiqueta": "FFC857"
+  },
+  {
+    "codMensaje": 0,
+    "indEstado": 0,
+    "indDesta": 0,
+    "indUrg": 0,
+    "indTipmsj": 0,
+    "codEtiqueta": "20",
+    "descEtiqueta": "CARTAS",
+    "cantEtiqueta": 0,
+    "colorEtiqueta": "A0522D"
+  }
+]

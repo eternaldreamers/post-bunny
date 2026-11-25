@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "playwright": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@playwright/mcp@latest",
+        "--headless",
+        "--isolated",
+        "--browser",
+        "chrome",
+        "--caps",
+        "vision,pdf,devtools"
+      ],
+      "cwd": ".",
+      "timeout": 120,
+      "description": "Playwright browser automation: navigate, snapshot pages, click, type, screenshot, and inspect network/console for this project."
+    }
+  }
+}
